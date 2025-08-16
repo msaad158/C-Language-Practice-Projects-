@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<conio.h>
-#include<dos.h>
 void main ()
 {
 	
@@ -11,3 +10,4 @@ void main ()
 	printf("The Area of cirlce is : %f",A);
 	getch();
 }
+
